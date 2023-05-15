@@ -54,7 +54,8 @@ The Restaurant Management System application provides the following features:
 - Display order details: Displays the details of an order by specifying the order ID.
 
 ## Schema
-[Schema for db](https://ibb.co/pxFc6WW)
+![Schema for DB](https://github.com/ameykunte/DB_Project/assets/70936188/3436dd1e-23a6-4988-8cef-ea2ba41d54b5)
+
 
 ## Contributing
 
@@ -64,7 +65,5 @@ Contributions to this project are welcome! Here are some ways you can contribute
 - Suggest new features or improvements.
 - Fork the repository and make your own changes. Submit a pull request to merge your changes back into the main branch.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
